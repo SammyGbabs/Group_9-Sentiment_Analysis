@@ -16,11 +16,9 @@ This project focuses on **Financial Sentiment Analysis** using machine learning 
 📦 Financial-Sentiment-Analysis
 ├── 📁 data/                  # Dataset files
 ├── 📁 notebooks/             # Jupyter Notebooks
-├── 📁 models/                # Trained models
-├── 📁 outputs/               # Predictions & evaluation results
 ├── 📄 Financial_Sentiment_Analysis.ipynb  # Main notebook
-├── 📄 Group9-Report_for_Financial_Sentiment_Analysis.docx  # Final Report
-├── 📄 README.md              # Project documentation (this file)
+├── 📄 Group9-Report_for_Financial_Sentiment_Analysis.pdf  # Final Report
+├── 📄 README.md              # Project documentation
 ```
 
 📊 Dataset Information
