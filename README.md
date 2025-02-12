@@ -92,7 +92,7 @@ This project focuses on **Financial Sentiment Analysis** using machine learning 
 | Logistic Regression | BERT | **69%** | 0.64 | 0.59 | **0.61** |
 | SVM | BERT | 69% | 0.62 | 0.56 | 0.57 |
 | Naïve Bayes | TF-IDF | 63.4% | **0.78** | 0.44 | 0.42 |
-| LSTM (Deep Learning) | Word2Vec | 54.96% | 0.34 | 0.35 | 0.29 |
+| LSTM (Deep Learning) | BERT | 54.96% | 0.34 | 0.35 | 0.29 |
 
 🏗 How to Run
 -------------
