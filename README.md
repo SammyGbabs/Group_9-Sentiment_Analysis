@@ -1,9 +1,8 @@
 Financial Sentiment Analysis
 ============================
 <p align="center">
-    <img src="https://eu1-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fimerit.net%2Fwp-content%2Fuploads%2F2021%2F07%2Fwhat-is-sentiment-analysis.jpg&sp=1739388317Tae0175b61a4efb918bf9ffa763641311cb8b25a110c98b114ee9327d8a9b19ff" alt="dashboard"/>
+    <img src="https://github.com/SammyGbabs/Group_9-Sentiment_Analysis/blob/main/sentiment_analysis.jpeg" alt="dashboard"/>
 </p>
-!(image)[https://github.com/SammyGbabs/Group_9-Sentiment_Analysis/blob/main/sentiment_analysis.jpeg]
 
 📌 Project Overview
 -------------------
