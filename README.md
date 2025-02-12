@@ -87,6 +87,7 @@ This project focuses on **Financial Sentiment Analysis** using machine learning 
 ---------------------
 
 | Model | Feature | Accuracy | Precision | Recall | F1-Score |
+|-------|---------|----------|-----------|--------|----------|
 | Logistic Regression | TF-IDF | **70%** | 0.65 | 0.56 | 0.57 |
 | Logistic Regression | BERT | **69%** | 0.64 | 0.59 | **0.61** |
 | SVM | BERT | 69% | 0.62 | 0.56 | 0.57 |
